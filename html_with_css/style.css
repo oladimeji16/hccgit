@@ -1,0 +1,14 @@
+div {
+    background-color: #ffffff;
+}
+#blog_name {
+    text-align: center;
+    background-color: rgb(88, 25, 69);
+    padding-block-start: 10px;
+    padding-block-end: 20px;
+    padding: 40px;
+    text-transform: capitalize;
+    color: blueviolet;
+    text-decoration-line: underline;
+
+}
